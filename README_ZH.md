@@ -1,5 +1,5 @@
 # Prepare for WWDC/ Swift Student Challenge
-[EN](README_EN.md)
+[EN](README_EN.md)|[ZH](README_ZH.md)
 ## 背景
 希望可以一起交流分享在准备Swift学生挑战赛中遇到的有用的资源～
 比如常见问题交流、合适的swiftpm入门脚手架项目到进阶项目、学习资源等。
