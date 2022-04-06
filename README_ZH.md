@@ -9,6 +9,7 @@
 <img width="1427" alt="截屏2022-04-06 下午6 52 57" src="https://user-images.githubusercontent.com/45887805/161959310-c46ece29-36d7-4f9d-a5e0-9b230aaf6f9c.png">
 ### Prepare for WWDC22 交流群
 QQ群： 612713009
+<img width="500" height="800" alt="群二维码" src="https://user-images.githubusercontent.com/45887805/162002544-2524525e-8403-404a-b3e8-0a8defd56af6.png">
 ![群二维码](https://user-images.githubusercontent.com/45887805/162002544-2524525e-8403-404a-b3e8-0a8defd56af6.png)
 
 
