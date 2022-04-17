@@ -17,6 +17,10 @@ QQ群： 612713009
 
 
 ## 推荐阅读(持续更新）
+[🔗🌟🌟🌟Hello, .swiftpm App on Playgrounds](https://leonardolu.github.io/AppleBox/documentation/welcome/hackspm4playgrounds/)
+   记录一些在 Playgrounds for iPad 上 Swift Package Manage (.spm file) 所特有的功能和性质。
+   
+[📖ARKit原生开发入门精粹—RealityKit+Swift+SwiftUI](https://read.douban.com/ebook/325850610/)
 
 [🔗你终于能在 iPad 上「真正」地开发应用了：新版 Swift Playgrounds 体验](https://sspai.com/post/70655)
 
